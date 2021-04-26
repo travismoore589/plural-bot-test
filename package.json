@@ -1,7 +1,7 @@
 {
 	"name": "CGP-Plural",
 	"description": "Plural-CGP Bot for Discord message proxying",
-	"homepage": "https://github.com/travismoore589/plural-bot-test/blob/master/README.md",
+	"homepage": "https://github.com/travismoore589/plural-bot-test/blob/main/README.md",
 	"eslintConfig": {
 		"env": {
 			"es6": true,
