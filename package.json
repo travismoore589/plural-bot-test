@@ -1,6 +1,6 @@
 {
-	"name": "tupperbox",
-	"description": "tupperbox bot for discord message proxying",
+	"name": "plural-bot-test",
+	"description": "plural-cgp bot for discord message proxying",
 	"homepage": "https://github.com/Keterr/Tupperbox/blob/master/README.md",
 	"eslintConfig": {
 		"env": {
